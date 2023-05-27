@@ -3314,3 +3314,14 @@ input, select, textarea {
 			}
 
 	}
+
+
+/* Post */
+
+#post {
+	margin: 80px 180px;
+}
+
+#post h1 {
+	font-size: 2.5em;
+}
